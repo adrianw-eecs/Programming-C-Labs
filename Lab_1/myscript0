@@ -1,0 +1,21 @@
+Script started on Thu 07 Jan 2016 07:29:55 PM EST
+]2;ptl22:/eecs/home/adrianw/2031ptl22 53 % date
+Thu Jan  7 19:30:11 EST 2016
+ptl22 54 % ls -1 | e[Kwc -l
+9
+ptl22 55 % ls -1 | grep "HW" | wc -1 [Kl
+0
+ptl22 56 % ls -1 | f[Kgrep "hw" | wc -l
+0
+ptl22 57 % cat | grep - c "[K[Kc "book:[K"
+hey
+book
+hello
+anoy  yone there?
+book
+is ther ebo    e a book?
+3
+ptl22 58 % r[Kexit
+exit
+
+Script done on Thu 07 Jan 2016 07:32:13 PM EST
